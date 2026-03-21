@@ -20,7 +20,7 @@ Player 1
 
 Player 2
 
--Move: Arrow Keys
+- Move: Arrow Keys
 - Switch Camera: K
 
 Screenshots
